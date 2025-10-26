@@ -2,7 +2,7 @@
 
 ## Description
 A wii nunchuck usb adapter for pc use.                                                                                                                                        
-Plug and play outcome.
+Plug and play outcome.                                                                                                                                                        
 Only on windows but can be simply modified for linux version (no more details)
 
 ## Needs
