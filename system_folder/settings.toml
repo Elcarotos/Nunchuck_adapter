@@ -1,0 +1,9 @@
+# Fichier: settings.toml
+# Ce fichier force CircuitPython a desactiver des interfaces USB par defaut
+
+# Desactive le lecteur de disque USB (CIRCUITPY)
+# Cela est prioritaire sur storage.disable_usb_drive() dans boot.py
+usb_mass_storage = false
+
+# Desactive la console serie USB (necessaire si vous voulez un Gamepad unique)
+usb_cdc = false
