@@ -1,4 +1,4 @@
-# Nunchuck-adapter
+# Nunchuck_adapter
 
 ## Description
 A wii nunchuck usb adapter for pc use.                                                                                                                                        
