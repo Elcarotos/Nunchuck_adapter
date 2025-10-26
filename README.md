@@ -22,7 +22,7 @@ It's done !
 - You will have to copy/paste all the content of the system_folder.
 
 ## How it's work
-The boot.py code initializes a receiver which takes 12C (nunchuck communication protocol) and send it to micro-controller.
+The boot.py code initializes a receiver which takes 12C (nunchuck communication protocol) and send it to micro-controller.                                                    
 The code.py program loops while listenings for inputs, when one is detected, the code convert it in usb en send it to the machine/pc.
 
 ## Debug
@@ -33,5 +33,5 @@ If you adapter doesn't work (the flashing red LED is the sign), you have to open
 - If it continues to not work.. please contact me
 
 ## Post-scriptum
-Other libraries or software may be required to run this system on "legal" platforms like Steam, etc.
+Other libraries or software may be required to run this system on "legal" platforms like Steam, etc...                                                                        
 This system remains perfect for use on Python/PyGame.
