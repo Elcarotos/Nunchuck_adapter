@@ -2,7 +2,8 @@
 
 ## Description
 A wii nunchuck usb adapter for pc use.
-plug and play outcome
+Plug and play outcome.
+Only on windows but can be simply modified for linux version (no more details)
 
 ## Needs
 - Adafruit RP2040 QT Trinkey (controller card)
