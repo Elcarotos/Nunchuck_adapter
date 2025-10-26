@@ -1,7 +1,7 @@
 # Nunchuck-adapter
 
 ## Description
-A wii nunchuck usb adapter for pc use.
+A wii nunchuck usb adapter for pc use.                                                                                                                                        
 Plug and play outcome.
 Only on windows but can be simply modified for linux version (no more details)
 
@@ -10,7 +10,7 @@ Only on windows but can be simply modified for linux version (no more details)
 - Adafruit Wii Nunchuck Breakout Adapter STEMMA QT (adapter)
 - Wire JST SH 4-pin 50/100 mm  (connectivity)
 
-## Design
+## Assembly
 Connect the wire to both the Wii adapter and the micro controller.
 It's done !
 
