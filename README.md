@@ -27,11 +27,11 @@ The code.py program loops while listenings for inputs, when one is detected, the
 
 ## Debug
 If you adapter doesn't work (the flashing red LED is the sign), you have to open again your usb key so :
-- unpulg it and plug it back in while pressing the "BOOT" and the "RST" buttons.
+- Press and release the "RST" button, at the same time press the "BOOT" button.
 - The interface should show up again as "CIRCUITPY" too
 - You will have to put the whole system_folder back in and click on "replace"
 - If it continues to not work.. please contact me
 
 ## Post-scriptum
 Other libraries or software may be required to run this system on "legal" platforms like Steam, etc...                                                                        
-This system remains perfect for use on Python/PyGame.
+This system remains perfect for use on Python/PyGame and other programming languages.
